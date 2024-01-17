@@ -1,4 +1,4 @@
-# Chatterbox Lab
+  # Chatterbox Lab
 
 ## Learning Goals
 
